@@ -10,5 +10,5 @@ Controls:\
 Requirements:\
 - You will need a browser with internet to play the game.\
 
-This game was written with JavaScript and HTML by Michelle Chan, for Introduction to Web Progamming with Chris Schmidt at Langara College.\
+This game was written with JavaScript and HTML by Michelle Chan.\
 
